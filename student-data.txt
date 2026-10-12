@@ -1,0 +1,2 @@
+name:pavithra
+skills : python,sq/,ml,data science
